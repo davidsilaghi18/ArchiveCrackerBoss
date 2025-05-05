@@ -49,18 +49,24 @@ rarfile
 tkinter (comes with Python by default)
 
 
-### 📁 Files 
-File	Description
-unzipall_gui.py	Main Python GUI application
-zippic.ico	Application icon
-UnRAR.exe	Required for .rar file support (Windows)
-README.md	Project documentation
-requirements.txt	List of required Python packages
+## 📁 Files
 
-👨‍💻 Author
-David Silaghi
-📍 Roskilde University
-🔗 GitHub Profile
+| File              | Description                             |
+|-------------------|-----------------------------------------|
+| `unzipall_gui.py` | Main Python GUI application             |
+| `zippic.ico`      | Application icon                        |
+| `UnRAR.exe`       | Required for `.rar` file support (Windows) |
+| `README.md`       | Project documentation                   |
+| `requirements.txt`| List of required Python packages        |
+
+---
+
+## 👨‍💻 Author
+
+**David Silaghi**  
+📍 Roskilde University  
+🔗 [GitHub Profile](https://github.com/davidsilaghi18)
+
 
 ### 📜 License
 This project is for educational purposes. You are free to use, modify, and share it with credit.
