@@ -29,9 +29,11 @@
    cd ArchiveCrackerBoss
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
+   ```bash
    python unzipall_gui.py
 
 ### Download the Windows Installer
