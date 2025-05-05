@@ -1,0 +1,7 @@
+tk
+pyunpack
+patool
+py7zr
+pyzipper
+Pillow
+pyinstaller
